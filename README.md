@@ -1,4 +1,6 @@
 # AccessPoint
+This is a part of the CarpenPi project, which aims to bring Software Carpentries to the Raspberry Pi, for use in off-grid and resource constrained environments.
+
 To enable the Raspberry Pi's to communicate with one another (enabling training in collaborative programming) one Pi will be used as a dedicated wireless router which the other Pi's will connect to. Since we are creating a local wireless network all Pi's must have wireless capabilities. Raspberry Pi 3's and 4's all have inbuilt wireless adapters but older models will need USB wireless adapters (and the relevent drivers installed). 
 
 RaspAP enables Raspberry Pi's to be used as wireless routers. Full documentation is available on their website https://raspap.com/.
